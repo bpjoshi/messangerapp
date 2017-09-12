@@ -1,4 +1,6 @@
-/.settings
+/messangerapp/.settings/
+/messangerapp/.classpath
+/messangerapp/.project
 # Compiled class file
 *.class
 
